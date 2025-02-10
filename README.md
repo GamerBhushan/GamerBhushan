@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate **MCA student** and an aspiring *
 - **Languages**: Java, Kotlin, HTML, CSS, JavaScript, TypeScript, Python, C, C++
 - **Frameworks**: Spring Boot, Android, React,
 - **Tools**: IntelliJ IDEA, Git, GitHub
-- **Databases**: SQLite, MySQL, OracleSQL
+- **Databases**: SQLite, PostgreSQL, MySQL, OracleSQL
 
 ## 🌱 Learning Goals
 
