@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate **MCA student** and an aspiring *
 ## 🧑‍💻 Skills
 
 - **Languages**: Java, Kotlin, HTML, CSS, JavaScript
-- **Frameworks**: Spring Boot, Android SDK
+- **Frameworks**: Spring Boot, Android, React
 - **Tools**: IntelliJ IDEA, Git, GitHub
 - **Databases**: SQLite, MySQL
 
